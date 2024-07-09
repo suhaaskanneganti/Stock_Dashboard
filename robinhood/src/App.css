@@ -1,0 +1,24 @@
+table {
+  border: 2px solid forestgreen;
+  width: 800px;
+  height: 200px;
+  z-index: 3;
+  background-color: red;
+  position: absolute;
+}
+
+th {
+  border-bottom: 1px solid black;
+}
+
+td {
+  text-align: center;
+}
+
+img {
+  height: 10vh;
+}
+
+.gif {
+  height: 40vh;
+}
