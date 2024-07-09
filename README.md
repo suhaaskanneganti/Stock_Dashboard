@@ -1,6 +1,6 @@
 # Simple-Robinhood-Dashboard
 
-Simlple-Robinhood-Dashboard is a a clean and simple Robinhood-like web app that allows the user to view up to date information on a list of tickers.
+Simple-Robinhood-Dashboard is a a clean and simple Robinhood-like web app that allows the user to view up to date information on a list of tickers.
 
 ## Setup
 
@@ -40,4 +40,5 @@ Now that the server is up and running, change your working directory to '../robi
 
 Now, you should see the following! This is a stock dashboard that updates every second with some previously hard-coded data.
 
+<img width="1781" alt="demo" src="https://github.com/suhaaskanneganti/Stock_Dashboard/assets/107927115/2be4b72f-3361-4c48-9580-12632a4de49d">
 
